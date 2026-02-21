@@ -1,0 +1,9 @@
+{
+	"name": "dfspotazure",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df6c4170-4493-414e-a681-ca6bd38aa88e",
+		"tenantId": "74a0c771-ad70-4dac-afb7-4808aa33c651"
+	}
+}
